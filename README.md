@@ -1,0 +1,2 @@
+# MyTest
+C++ test instance
