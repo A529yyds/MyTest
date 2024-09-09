@@ -1,2 +1,2 @@
 # MyTest
-C++ test instance
+C++ test instance by Lincy
